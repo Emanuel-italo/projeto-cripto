@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ccxt
+pandas
+pandas_ta
+numpy
+feedparser
+vaderSentiment
+scikit-learn
+joblib
+rich

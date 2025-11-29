@@ -1,0 +1,25 @@
+{
+  "trained_at": "20251129_204653",
+  "oos_acc": 0.5035161744022504,
+  "features": [
+    "rsi",
+    "macd",
+    "ema_50",
+    "atr",
+    "volume",
+    "bb_upper",
+    "bb_lower",
+    "obv",
+    "ret_1",
+    "ret_3",
+    "ret_6",
+    "ma_10",
+    "ma_20",
+    "ma_50",
+    "vol_rolling_std_20",
+    "price_z",
+    "momentum_12",
+    "dist_vwap"
+  ],
+  "ok_for_trading": false
+}
